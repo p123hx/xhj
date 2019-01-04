@@ -1,0 +1,2 @@
+model_checkpoint_path: "xhj_attention_ckpt-0"
+all_model_checkpoint_paths: "xhj_attention_ckpt-0"
